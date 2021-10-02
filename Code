@@ -5,6 +5,8 @@
 --Trabalho no momento esta incompleto, pois tivemos dificuldades principalmente na modificacao do tabuleiro
 --e no casamento das funcoes.
 
+-- Link da explicação: https://web.microsoftstream.com/video/3ea5305a-c48a-4151-9fb0-93dd53ac4001
+
 type id = Int
 type localizacao = (Int, Int)
 type dir = N | S | L | O
